@@ -36,7 +36,7 @@ function MyApp({ Component, pageProps }) {
           </section>
         </main>
 
-        {/* Pied de page */}
+        {  }
         <footer className="bg-blue-600 text-white py-4">
           <div className="container mx-auto text-center">
             <p className="text-sm">
